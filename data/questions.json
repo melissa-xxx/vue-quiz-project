@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "header": "What is the purpose of HTML and CSS?",
+    "correctAnswer": {
+      "id": "B",
+      "text": "HTML tells the browser what to display, CSS tells it what style to display it in"
+    },
+    "answers": [
+      { "answerId": "A", "text": "HTML handles the data, CSS handles routing" },
+      {
+        "answerId": "B",
+        "text": "HTML tells the browser what to display, CSS tells it what style to display it in"
+      },
+      {
+        "answerId": "C",
+        "text": "HTML styles the page, CSS makes it interactive"
+      },
+      {
+        "answerId": "D",
+        "text": "HTML makes the page interactive, CSS styles the page"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "header": "What does HTML stand for?",
+    "correctAnswer": { "id": "C", "text": "HyperText Markup Language" },
+    "answers": [
+      { "answerId": "A", "text": "HighText Machine Language" },
+      {
+        "answerId": "B",
+        "text": "HyperText and links Markup Language"
+      },
+      {
+        "answerId": "C",
+        "text": "HyperText Markup Language"
+      },
+      {
+        "answerId": "D",
+        "text": "HyperText Machine Language"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "header": "The <hr> tag in HTML is used for",
+    "correctAnswer": { "id": "D", "text": "horizontal ruler" },
+    "answers": [
+      { "answerId": "A", "text": "a new line" },
+      {
+        "answerId": "B",
+        "text": "vertical ruler"
+      },
+      {
+        "answerId": "C",
+        "text": "new paragraph"
+      },
+      {
+        "answerId": "D",
+        "text": "horizontal ruler"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "header": "CSS stands for",
+    "correctAnswer": { "id": "C", "text": "Cascading style sheets" },
+    "answers": [
+      { "answerId": "A", "text": "Cascade style sheets" },
+      {
+        "answerId": "B",
+        "text": "Color and style sheets"
+      },
+      {
+        "answerId": "C",
+        "text": "Cascading style sheets"
+      },
+      {
+        "answerId": "D",
+        "text": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "header": "The CSS property used to make the text bold is",
+    "correctAnswer": { "id": "A", "text": "font-weight: bold" },
+    "answers": [
+      { "answerId": "A", "text": "font-weight: bold" },
+      {
+        "answerId": "B",
+        "text": "weight: bold"
+      },
+      {
+        "answerId": "C",
+        "text": "font: bold"
+      },
+      {
+        "answerId": "D",
+        "text": "style: bold"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "header": "Which of the following type of variable is visible everywhere in your Javascript code?",
+    "correctAnswer": { "id": "A", "text": "global variable" },
+    "answers": [
+      { "answerId": "A", "text": "global variable" },
+      {
+        "answerId": "B",
+        "text": "local variable"
+      },
+      {
+        "answerId": "C",
+        "text": "Both of the above"
+      },
+      {
+        "answerId": "D",
+        "text": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "header": "Which built-in method removes the last element from an array and returns that element?",
+    "correctAnswer": { "id": "C", "text": "pop()" },
+    "answers": [
+      { "answerId": "A", "text": "last()" },
+      {
+        "answerId": "B",
+        "text": "get()"
+      },
+      {
+        "answerId": "C",
+        "text": "pop()"
+      },
+      {
+        "answerId": "D",
+        "text": "push()"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "header": "Which of the following built-in function of Arrays creates a new array with the results of calling a provided function on every element in this array?",
+    "correctAnswer": { "id": "D", "text": "map()" },
+    "answers": [
+      { "answerId": "A", "text": "shift()" },
+      {
+        "answerId": "B",
+        "text": "join()"
+      },
+      {
+        "answerId": "C",
+        "text": "unshift()"
+      },
+      {
+        "answerId": "D",
+        "text": "map()"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "header": "Which of the following is not a Javascript data type?",
+    "correctAnswer": { "id": "B", "text": "float" },
+    "answers": [
+      { "answerId": "A", "text": "undefined" },
+      {
+        "answerId": "B",
+        "text": "float"
+      },
+      {
+        "answerId": "C",
+        "text": "boolean"
+      },
+      {
+        "answerId": "D",
+        "text": "number"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "header": "Which event occurs when the user clicks on an HTML element?",
+    "correctAnswer": { "id": "A", "text": "onclick" },
+    "answers": [
+      { "answerId": "A", "text": "onclick" },
+      {
+        "answerId": "B",
+        "text": "onmouseclick"
+      },
+      {
+        "answerId": "C",
+        "text": "onmouseover"
+      },
+      {
+        "answerId": "D",
+        "text": "onchange"
+      }
+    ]
+  }
+]
